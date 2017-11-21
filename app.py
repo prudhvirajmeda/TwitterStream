@@ -4,10 +4,10 @@ from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler, Stream
 from confluent_kafka import Producer, KafkaError
 
-CONSUMER_KEY = '1dgcBu310Ts7hWAmXQrRgN7dw' # VALUE
-CONSUMER_SECRET = 'TAq1NyB3orQo9XVk19thsgMI5GjSQhvpO5JnPOPpXD7PgSeE2T' # VALUE
-ACCESS_TOKEN = '138816577-5itSgNqZ4yDyxOqST1fEJJMBcKQJB93oBtZe0cYj' # VALUE
-ACCESS_TOKEN_SECRET = 'tAxATECQhdHTvp6y66oQlefd2Rk0l2mDNfoyRYFoxuZae' # VALUE
+CONSUMER_KEY = '1d' # VALUE
+CONSUMER_SECRET = 'TA' # VALUE
+ACCESS_TOKEN = '13' # VALUE
+ACCESS_TOKEN_SECRET = 'Zae' # VALUE
 
 
 
